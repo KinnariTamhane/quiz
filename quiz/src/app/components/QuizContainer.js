@@ -44,8 +44,6 @@ const QuizContainer = memo(() => {
       }
   }
 
-
-
   return (
     <div id="quiz" className='quiz-container bg-black h-[650px]'>
          <div className="">
